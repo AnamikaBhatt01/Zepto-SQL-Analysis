@@ -7,10 +7,6 @@
 This project is an end-to-end SQL-based data analysis case study built using the Zepto Inventory Dataset. The goal of the project is to demonstrate strong command over SQL querying, database design, business analytics, and data storytelling, similar to real-world retail / quick-commerce analytics.
 
 The project covers data modeling, data cleaning, analytical SQL queries, inventory insights, sales analysis, and dashboard-ready outputs, making it suitable for portfolio, interviews, and LinkedIn/GitHub showcasing.
-
-
----
-
 🎯 Objectives
 
 Design a clean relational database schema for Zepto-like operations
@@ -22,10 +18,6 @@ Generate business-driven insights without time-based columns
 Prepare outputs that can be directly used for Excel dashboards & visualizations
 
 Follow industry-level GitHub project structure
-
-
-
----
 
 🧩 Dataset
 
@@ -47,10 +39,6 @@ Inventory
 Pricing
 
 Orders / Sales (derived)
-
-
-
----
 
 🗄️ Database Design
 
@@ -96,10 +84,6 @@ Data Source: CSV
 Visualization: Excel Dashboard
 
 Version Control: Git & GitHub
-
-
-
----
 
 🛠️ Project Workflow
 
